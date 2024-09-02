@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xjKllDfZLjA70RvNZ0Oeqix5K1yA",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Dano moral\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":60000,\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Gratuidade da justiça\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Obrigação de fazer\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"obrigacaoDeFazer\":\"Suspensão da exigibilidade das parcelas do financiamento e abstenção de atos de cobrança.\"},{\"pedido\":\"Dano material\",\"tipoDaDecisao\":\"Improcedente\",\"valorDeferido\":0,\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Declaratória\",\"tipoDaDecisao\":\"Não mencionado\",\"valorDeferido\":0,\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724022643,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 187,
+        "prompt_tokens": 647,
+        "total_tokens": 834
+    }
+}

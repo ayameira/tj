@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xibBdbzmuNLdBPzYwaFNhYHHKsjd",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Danos morais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":10000,\"textoDaDecisao\":\"JULGO PROCEDENTE o pedido inicial para, confirmando a antecipação da tutela, declarar inexistente a relação jurídica e a dívida que deu origem à inscrição indevida, condenando a instituição financeira demandada ao pagamento da importância de R$ 10.000,00 (dez mil reais) a título de indenização por danos morais.\",\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Declaratória\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"textoDaDecisao\":\"JULGO PROCEDENTE o pedido inicial para, confirmando a antecipação da tutela, declarar inexistente a relação jurídica e a dívida que deu origem à inscrição indevida.\",\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724019817,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 187,
+        "prompt_tokens": 245,
+        "total_tokens": 432
+    }
+}

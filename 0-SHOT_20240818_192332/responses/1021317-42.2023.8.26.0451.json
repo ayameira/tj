@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xib8KHgfs6QDzZXX7WCPwuGQwf5c",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Danos materiais\",\"tipoDaDecisao\":\"Parcialmente procedente\",\"valorDeferido\":3093.3,\"textoDaDecisao\":\"Condenar a requerida a restituir ao autor a quantia de R$ 3.093,30, devidamente atualizada monetariamente desde o desembolso e acrescida de juros de mora de 1% ao mês, a contar da citação.\",\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Declaratória\",\"tipoDaDecisao\":\"Parcialmente procedente\",\"valorDeferido\":0,\"textoDaDecisao\":\"Declarar a rescisão do contrato de prestação de serviços firmado entre as partes, consubstanciado na reserva registrada sob o nº RES082702-5705, referente às diárias no Hotel Laghetto Stilo Barra Rio, por culpa exclusiva da requerida, sem qualquer ônus ao consumidor.\",\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724019814,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 205,
+        "prompt_tokens": 325,
+        "total_tokens": 530
+    }
+}

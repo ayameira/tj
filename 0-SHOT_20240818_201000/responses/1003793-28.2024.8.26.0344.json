@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xjKunnw5eqhbH0CWVChqO1cFMuLB",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Dano material\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":557.59,\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724022652,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 40,
+        "prompt_tokens": 275,
+        "total_tokens": 315
+    }
+}

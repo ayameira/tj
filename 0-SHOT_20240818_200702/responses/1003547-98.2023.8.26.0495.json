@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xjHXxM1c7QghYqjFCdMAxsLtv3LG",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Danos morais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":10000,\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Declaratória\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"obrigacaoDeFazer\":\"Declarar inexistente a relação jurídica e a dívida que deu origem à inscrição indevida.\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724022443,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 87,
+        "prompt_tokens": 245,
+        "total_tokens": 332
+    }
+}

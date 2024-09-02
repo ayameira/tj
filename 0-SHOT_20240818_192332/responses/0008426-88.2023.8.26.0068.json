@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xib4iYPTaPWWTUs6hOp9y9FkadQt",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Danos materiais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":2400,\"textoDaDecisao\":\"Determinar ao réu o estorno da compra no valor de R$ 2.400,00, realizada aos 28 de setembro de 2023, reconduzindo a relação à situação anterior à mencionada utilização.\",\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Danos morais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":5000,\"textoDaDecisao\":\"Condeno o réu ao pagamento da quantia de R$ 5.000,00, referente ao ressarcimento dos danos morais suportados pelo autor, com correção monetária a partir da presente data e acréscimo de juros moratórios desde a citação.\",\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724019810,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 190,
+        "prompt_tokens": 167,
+        "total_tokens": 357
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xib6tOiIQnHr1WB0v0v0gYmwRN7N",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Danos materiais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":77410.78,\"textoDaDecisao\":\"JULGO PROCEDENTE o pedido, extinguindo o feito com fundamento no artigo 487, inciso I, do Código de Processo Civil, para o fim de condenar a ré ao pagamento de R$ 77.410,78, acrescido de correção monetária pela Tabela Prática do TJSP e juros de mora legal a contar de janeiro de 2022, conforme cálculo de fls. 182.\",\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724019812,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 133,
+        "prompt_tokens": 142,
+        "total_tokens": 275
+    }
+}

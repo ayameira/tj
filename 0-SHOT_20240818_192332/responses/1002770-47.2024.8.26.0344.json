@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xibQENqTku8U7CjyNmYX0LDfPQTs",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Danos morais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":60000,\"textoDaDecisao\":\"Condenar o MUNICÍPIO DE MARÍLIA e a CDHU, solidariamente, ao pagamento de indenização por danos morais no valor de R$ 30.000,00 para cada um dos autores da ação (totalizando R$ 60.000,00), com aplicação da taxa SELIC a partir da presente data até o efetivo pagamento.\",\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Obrigação de fazer\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"textoDaDecisao\":\"Ratificar a liminar e determinar, em caráter definitivo, a suspensão da exigibilidade das parcelas do financiamento, devendo a CDHU se abster de promover atos de cobrança, sob pena de multa diária de R$ 1.000,00 até o limite de R$ 50.000,00.\",\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Gratuidade da justiça\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"textoDaDecisao\":\"Os autores da ação são beneficiários da gratuidade e nada desembolsaram a tal título.\",\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Danos materiais\",\"tipoDaDecisao\":\"Improcedente\",\"valorDeferido\":0,\"textoDaDecisao\":\"Extinção sem resolução de mérito do pedido de condenação ao pagamento de aluguel social.\",\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724019832,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 341,
+        "prompt_tokens": 647,
+        "total_tokens": 988
+    }
+}

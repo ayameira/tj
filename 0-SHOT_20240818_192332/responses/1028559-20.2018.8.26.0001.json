@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xibKVfyjjRXnC5HS3LY3qOLitzNG",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Obrigação de fazer\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"textoDaDecisao\":\"JULGO PROCEDENTE o pedido formulado por DIONÍSIO SANTIAGO e APARECIDA DOS SANTOSSANTIAGO em face de BELMIRO AUGUSTO RODRUGUES, GILDA CRIVELIRODRIGUES, ANTONIO FERREIRA DE VASCONCELOS e ADALENA GENENTEVASCONCELOS, para adjudicar o imóvel sito à rua Janauira, nº 17, antiga rua Aracy, no Jardim Pery, no 8º Subdistrito – Santana, contribuinte municipal nº 108.210.0131-1, matriculado sob nº 155.234 aos requerentes.\",\"obrigacaoDeFazer\":\"Adjudicar o imóvel sito à rua Janauira, nº 17, antiga rua Aracy, no Jardim Pery.\"},{\"pedido\":\"Danos materiais\",\"tipoDaDecisao\":\"Improcedente\",\"valorDeferido\":0,\"textoDaDecisao\":\"Condeno os Réus ao pagamento de custas, despesas processuais e honorários advocatícios que arbitro em 10% sobre o valor da causa.\",\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724019826,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 288,
+        "prompt_tokens": 287,
+        "total_tokens": 575
+    }
+}

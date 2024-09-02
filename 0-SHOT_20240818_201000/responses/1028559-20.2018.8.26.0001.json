@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xjKbEfJ17sEhFuNcuUiBRENG2BBq",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Obrigação de fazer\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"obrigacaoDeFazer\":\"Adjudicação do imóvel sito à rua Janauira, nº 17, antiga rua Aracy, no Jardim Pery.\"},{\"pedido\":\"Dano material\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"obrigacaoDeFazer\":\"Condenação dos Réus ao pagamento de custas, despesas processuais e honorários advocatícios.\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724022633,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 120,
+        "prompt_tokens": 287,
+        "total_tokens": 407
+    }
+}

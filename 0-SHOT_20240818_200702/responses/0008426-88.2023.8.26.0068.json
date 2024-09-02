@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xjHLkekNClNxt35VKdLk3UX65pLb",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Danos materiais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":2400,\"obrigacaoDeFazer\":\"Estorno da compra realizada aos 28 de setembro de 2023.\"},{\"pedido\":\"Danos morais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":5000,\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724022431,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 86,
+        "prompt_tokens": 167,
+        "total_tokens": 253
+    }
+}

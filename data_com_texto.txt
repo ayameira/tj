@@ -1,0 +1,158 @@
+[
+  {
+    "id": "0008426-88.2023.8.26.0068",
+    "dispositivo": "Ante o exposto, JULGO PROCEDENTE o pedido para determinar ao réu oestorno da compra no valor de R$ 2.400,00, realizada aos 28 de setembro de 2023, reconduzindoa relação à situação anterior à mencionada utilização.Ainda, condeno o réu ao pagamento da quantia de R$ 5.000,00, referente aoressarcimento dos danos morais suportados pelo autor, com correção monetária a partir dapresente data e acréscimo de juros moratórios desde a citação.",
+    "decisoes": [
+      {
+        "pedido": "Obrigação de fazer",
+        "tipoDaDecisao": "Procedente",
+        "obrigacaoDeFazer": "Estorno da compra no valor de R$ 2.400,00, realizada aos 28 de setembro de 2023, reconduzindo a relação à situação anterior à mencionada utilização.",
+        "textoDaDecisao": "JULGO PROCEDENTE o pedido para determinar ao réu o estorno da compra no valor de R$ 2.400,00, realizada aos 28 de setembro de 2023, reconduzindo a relação à situação anterior à mencionada utilização."
+      },
+      {
+        "pedido": "Danos morais",
+        "tipoDaDecisao": "Procedente",
+        "textoDaDecisao": "Condeno o réu ao pagamento da quantia de R$ 5.000,00, referente ao ressarcimento dos danos morais suportados pelo autor, com correção monetária a partir da presente data e acréscimo de juros moratórios desde a citação.",
+        "valorDeferido": 5000
+      }
+    ]
+  },
+  {
+    "id": "1002234-63.2022.8.26.0002",
+    "dispositivo": "Ante o exposto, JULGO PROCEDENTE o pedido, extinguindo o feito comfundamento no artigo 487, inciso I, do Código de Processo Civil, para o fim de condenar a ré aopagamento de R$ 77.410,78, acrescido de correção monetária pela Tabela Prática do TJSP e jurosde mora legal a contar de janeiro de 2022, conforme cálculo de fls. 182.",
+    "decisoes": [
+      {
+        "pedido": "Dano material",
+        "tipoDaDecisao": "Procedente",
+        "textoDaDecisao": "Ante o exposto, JULGO PROCEDENTE o pedido, extinguindo o feito com fundamento no artigo 487, inciso I, do Código de Processo Civil, para o fim de condenar a ré ao pagamento de R$ 77.410,78, acrescido de correção monetária pela Tabela Prática do TJSP e juros de mora legal a contar de janeiro de 2022, conforme cálculo de fls. 182.",
+        "valorDeferido": 77410.78
+      }
+    ]
+  },
+  {
+    "id": "1021317-42.2023.8.26.0451",
+    "dispositivo": "Ante o exposto, JULGO PARCIALMENTE PROCEDENTE apresente ação que ANTONIO CARLOS CASALE DANTAS movem contra LH -LANCE HOTEIS LTDA. E MAX MILHAS - MM TURISMO & VIAGENS S.A., oque o faço para declarar a rescisão do contrato de prestação de serviços firmadoentre as partes, consubstanciado na reserva registrada sob o nºRES082702-5705, referente às diárias no Hotel Laghetto Stilo Barra Rio, porculpa exclusiva da requerida, sem qualquer ônus ao consumidor, bem como paracondenar a requerida a restituir ao autor a quantia de R$ 3.093,30 (três mil enoventa e três reais e trinta centavos), devidamente atualizada monetariamentedesde o desembolso e acrescida de juros de mora de 1% ao mês, a contar dacitação (Tabela Prática TJSP).Declaro extinta a fase de conhecimento, com resolução domérito, na forma do art. 487, I, do Código de Processo Civil.Custas e honorários indevidos, nos termos do art. 55 da Leinº 9.099/95.P.R.I.C.Piracicaba, 14 de agosto de 2024.",
+    "decisoes": [
+      {
+        "pedido": "Declaratória",
+        "tipoDaDecisao": "Parcialmente procedente",
+        "obrigacaoDeFazer": "Rescisão do contrato de prestação de serviços firmado entre as partes, consubstanciado na reserva registrada sob o nº RES082702-5705, referente às diárias no Hotel Laghetto Stilo Barra Rio, por culpa exclusiva da requerida, sem qualquer ônus ao consumidor.",
+        "textoDaDecisao": "JULGO PARCIALMENTE PROCEDENTE a presente ação que ANTONIO CARLOS CASALE DANTAS move contra LH - LANCE HOTEIS LTDA. e MAX MILHAS - MM TURISMO & VIAGENS S.A., o que o faço para declarar a rescisão do contrato de prestação de serviços firmado entre as partes, consubstanciado na reserva registrada sob o nº RES082702-5705, referente às diárias no Hotel Laghetto Stilo Barra Rio, por culpa exclusiva da requerida, sem qualquer ônus ao consumidor"
+      },
+      {
+        "pedido": "Dano material",
+        "tipoDaDecisao": "Parcialmente procedente",
+        "valorDeferido": 3093.3,
+        "textoDaDecisao": "JULGO PARCIALMENTE PROCEDENTE a presente ação que ANTONIO CARLOS CASALE DANTAS move contra LH - LANCE HOTEIS LTDA. e MAX MILHAS - MM TURISMO & VIAGENS S.A., o que o faço para declarar a rescisão do contrato de prestação de serviços firmado entre as partes, consubstanciado na reserva registrada sob o nº RES082702-5705, referente às diárias no Hotel Laghetto Stilo Barra Rio, por culpa exclusiva da requerida, sem qualquer ônus ao consumidor, bem como para condenar a requerida a restituir ao autor a quantia de R$ 3.093,30 (três mil e noventa e três reais e trinta centavos), devidamente atualizada monetariamente desde o desembolso e acrescida de juros de mora de 1% ao mês, a contar da citação (Tabela Prática TJSP)."
+      }
+    ]
+  },
+  {
+    "id": "1003547-98.2023.8.26.0495",
+    "dispositivo": "Diante de todo o exposto, com base no artigo 487, inciso I, do Código de ProcessoCivil, JULGO PROCEDENTE o pedido inicial para, confirmando a antecipação da tutela,declarar inexistente a relação jurídica e a dívida que deu origem à inscrição indevida, condenandoa instituição financeira demandada ao pagamento da importância de R$ 10.000,00 (dez mil reais)a título de indenização por danos morais. O valor deverá ser corrigido monetariamente pelaTabela Prática do E. TJSP e acrescidos de juros moratórios legais de 1% ao mês a partir destasentença até a data do efetivo pagamento (Súmula 362 do STJ).Condeno a requerida ainda ao pagamento das custas e despesas processuais, alémde honorários advocatícios fixados em 15% do valor atualizado da condenação.P.I.C.Registro, 15 de agosto de 2024.",
+    "decisoes": [
+      {
+        "pedido": "Declaratória",
+        "tipoDaDecisao": "Procedente",
+        "textoDaDecisao": "Confirmando a antecipação da tutela, declaro inexistente a relação jurídica e a dívida que deu origem à inscrição indevida.",
+        "valorDeferido": null
+      },
+      {
+        "pedido": "Dano moral",
+        "tipoDaDecisao": "Procedente",
+        "textoDaDecisao": "Condeno a instituição financeira demandada ao pagamento da importância de R$ 10.000,00 (dez mil reais) a título de indenização por danos morais.",
+        "valorDeferido": 10000
+      }
+    ]
+  },
+  {
+    "id": "1000720-80.2024.8.26.0010",
+    "dispositivo": "Ante o exposto, julgo procedente a ação, para consolidar a propriedade e a posseexclusiva do bem no patrimônio do(a) autor(a), tornando definitiva a liminar.Em razão da sucumbência, condeno a parte requerida ao pagamento das custas edespesas processuais e dos honorários advocatícios, que fixo em 10% do valor atribuído à causa.P.R.I.C.São Paulo, 18 de agosto de 2024.",
+    "decisoes": [
+      {
+        "pedido": "Declaratória",
+        "tipoDaDecisao": "Procedente",
+        "obrigacaoDeFazer": "",
+        "textoDaDecisao": "Julgo procedente a ação, para consolidar a propriedade e a posse exclusiva do bem no patrimônio do(a) autor(a), tornando definitiva a liminar. Em razão da sucumbência, condeno a parte requerida ao pagamento das custas e despesas processuais e dos honorários advocatícios, que fixo em 10% do valor atribuído à causa.",
+        "valorDeferido": null
+      }
+    ]
+  },
+  {
+    "id": "1028559-20.2018.8.26.0001",
+    "dispositivo": "Ante o exposto e mais do que dos autos consta JULGO PROCEDENTE opedido formulado por DIONÍSIO SANTIAGO e APARECIDA DOS SANTOSSANTIAGO em face de BELMIRO AUGUSTO RODRUGUES, GILDA CRIVELIRODRIGUES, ANTONIO FERREIRA DE VASCONCELOS e ADALENA GENENTEVASCONCELOS, para adjudicar o imóvel sito à rua Janauira, nº 17, antiga rua Aracy, noJardim Pery, no 8º Subdistrito – Santana, contribuinte municipal nº 108.210.0131-1,matriculado sob nº 155.234 aos requerentesServirá a presente como mandado ao 3.º Cartório de Registro de Imóveis deSP.Condeno os Réus ao pagamento de custas, despesas processuais ehonorários advocatícios que arbitro em 10% sobre o valor da causa.Os juros incidentes sobre honorários advocatícios contar-se-ão do trânsitoem julgado da sentença.Publique-se e intimem-se.",
+    "decisoes": [
+      {
+        "pedido": "Obrigação de fazer",
+        "tipoDaDecisao": "Procedente",
+        "obrigacaoDeFazer": "Adjudicar o imóvel sito à rua Janauira, nº 17, antiga rua Aracy, no Jardim Pery, no 8º Subdistrito – Santana, contribuinte municipal nº 108.210.0131-1, matriculado sob nº 155.234 aos requerentes.",
+        "textoDaDecisao": "Ante o exposto e mais do que dos autos consta JULGO PROCEDENTE o pedido formulado por DIONÍSIO SANTIAGO e APARECIDA DOS SANTOS SANTIAGO em face de BELMIRO AUGUSTO RODRIGUES, GILDA CRIVELI RODRIGUES, ANTONIO FERREIRA DE VASCONCELOS e ADALENA GENENTE VASCONCELOS, para adjudicar o imóvel sito à rua Janauira, nº 17, antiga rua Aracy, no Jardim Pery, no 8º Subdistrito – Santana, contribuinte municipal nº 108.210.0131-1, matriculado sob nº 155.234 aos requerentes. Servirá a presente como mandado ao 3.º Cartório de Registro de Imóveis de SP. Condeno os Réus ao pagamento de custas, despesas processuais e honorários advocatícios que arbitro em 10% sobre o valor da causa. Os juros incidentes sobre honorários advocatícios contar-se-ão do trânsito em julgado da sentença. Publique-se e intimem-se.",
+        "valorDeferido": null
+      }
+    ]
+  },
+  {
+    "id": "0000020-15.2024.8.26.0595",
+    "dispositivo": "Ante o exposto, e atenta a tudo mais que dos autos consta, JULGOPROCEDENTE o pedido inicial formulado por S.T.A. e V.A.S. em face de L.F.D.B. paracondenar o réu ao pagamento dos danos causados no valor de R$ 3.717,50 (três mil setecentos edezessete reais e cinquenta centavos, corrigidos monetariamente desde a data do orçamento eacrescidos de juros de mora de 1% ao mês desde o evento danoso (20/08/23).Em consequência, declaro extinto o processo, com resolução do mérito, nostermos do artigo 487, inciso I, do Código de Processo Civil.Sem condenação em verbas sucumbenciais nesta fase do procedimentosumaríssimo, em atenção ao disposto no artigo 55 da Lei 9.099/95.No sistema dos Juizados Especiais, em caso de interposição do RecursoInominado, deverá ser elaborada certidão antes da remessa dos autos ao Colégio Recursal.Ressalvada a hipótese de concessão de gratuidade da justiça, o preparo corresponderá: a) à taxajudiciária de ingresso, no importe de 1,5% para ação comum e 2% para execução de títuloextrajudicial, sobre o valor atualizado da causa, observado o valor mínimo de 5(cinco) UFESPs, aser recolhida na guia DARE; b) à taxa judiciária referente às custas de preparo, no importe de 4%sobre o valor fixado na sentença, se líquido, ou sobre o valor fixado equitativamente pelo MM.Juiz de Direito, se ilíquido ou ainda 4% sobre o valor atualizado atribuído à causa na ausência depedido condenatório, a ser recolhida na guia DARE; c) às despesas processuais referentes a todosos serviços forenses eventualmente utilizados (despesas postais, diligências do Oficial de Justiça,taxas para pesquisas de endereço nos sistemas conveniados, custas para publicação de editaisetc.), a serem recolhidas na guia FEDTJ, à exceção das diligências de Oficial de Justiça, quedeverão ser colhidas na guia GRD. O preparo será recolhido de acordo com os critérios acimaestabelecidos independente de cálculo elaborado pela serventia que apenas será responsável pelaconferência dos valores e elaboração da certidão para juntada aos autos.P.I.C.",
+    "decisoes": [
+      {
+        "pedido": "Dano material",
+        "tipoDaDecisao": "Procedente",
+        "textoDaDecisao": "JULGO PROCEDENTE o pedido inicial formulado por S.T.A. e V.A.S. em face de L.F.D.B. para condenar o réu ao pagamento dos danos causados no valor de R$ 3.717,50.",
+        "valorDeferido": 3717.5
+      }
+    ]
+  },
+  {
+    "id": "1002770-47.2024.8.26.0344",
+    "dispositivo": "Isto posto, na forma do que dispõe o artigo 487, inciso I, do Código deProcesso Civil, conheço em parte dos pedidos e, na parte conhecida, julgo-os procedentes,para o fim de: a) ratificar a liminar de fls. 230/232 e determinar, em caráter definitivo, asuspensão da exigibilidade das parcelas do financiamento referido na inicial, contraídopelos autores da ação junto à CDHU, que deverá se abster de promover atos de cobrançarespectivos, incluindo-se eventual negativação e/ou manutenção da negativação junto aosórgão de restrição de crédito, sob pena de incidência de multa diária, que fixo, desde já, emR$ 1.000,00 (mil reais), até o limite de R$ 50.000,00 (cinquenta mil reais); b) condenar oMUNICÍPIO DE MARÍLIA e a CDHU, solidariamente, ao pagamento de indenização pordanos morais no valor de R$ 30.000,00 (trinta mil reais) para cada um dos autores da ação(totalizando R$ 60.000,00 (sessenta mil reais)), com aplicação da taxa SELIC (artigo 3º daEC nº 113/2021) a partir da presente data (Súmula nº 362 do C. STJ) até o efetivopagamento.Fica extinto, sem resolução de mérito, o pedido de condenação dosdemandados ao pagamento de aluguel social em favor dos autores da ação, comfundamento no artigo 485, inciso VI, do Código de Processo Civil.Em razão da sucumbência, arcarão os requeridos, equitativamente e prorata, com o pagamento de honorários advocatícios, ora fixados em 10% (dez por cento)sobre o valor da condenação (artigo 85, §3º, inciso I, do Código de Processo Civil). Semressarcimento de custas e/ou despesas processuais, porquanto os autores da ação sãobeneficiários da gratuidade e nada desembolsaram a tal título.Considerada a sucumbência parcial (artigo 85, §14, do Código de ProcessoCivil), dada a extinção sem resolução de mérito quanto a parte dos pedidos, arcarão osautores da ação com o pagamento de honorários advocatícios, ora fixados, na forma doartigo 85, §2º, do CPC, em R$ 500,00 (quinhentos reais), ficando ressalvada a suspensãode exigibilidade prevista no artigo 98, §3º, do Código de Processo Civil.Dispensada a remessa necessária, consoante preceitua o artigo 496, §3º,inciso III, do Código de Processo Civil.P.R.I.C.",
+    "decisoes": [
+      {
+        "pedido": "Obrigação de fazer",
+        "tipoDaDecisao": "Procedente",
+        "obrigacaoDeFazer": "Suspensão da exigibilidade das parcelas do financiamento e abstenção de promover atos de cobrança, incluindo eventual negativação.",
+        "textoDaDecisao": "Ratificar a liminar de fls. 230/232 e determinar, em caráter definitivo, a suspensão da exigibilidade das parcelas do financiamento referido na inicial, contraído pelos autores da ação junto à CDHU, que deverá se abster de promover atos de cobrança respectivos, incluindo-se eventual negativação e/ou manutenção da negativação junto aos órgãos de restrição de crédito, sob pena de incidência de multa diária, que fixo, desde já, em R$ 1.000,00 (mil reais), até o limite de R$ 50.000,00 (cinquenta mil reais)."
+      },
+      {
+        "pedido": "Dano moral",
+        "tipoDaDecisao": "Procedente",
+        "textoDaDecisao": "Condenar o MUNICÍPIO DE MARÍLIA e a CDHU, solidariamente, ao pagamento de indenização por danos morais no valor de R$ 30.000,00 (trinta mil reais) para cada um dos autores da ação (totalizando R$ 60.000,00 (sessenta mil reais)), com aplicação da taxa SELIC a partir da presente data até o efetivo pagamento.",
+        "valorDeferido": 60000
+      },
+      {
+        "pedido": "Gratuidade da justiça",
+        "tipoDaDecisao": "Procedente",
+        "textoDaDecisao": "Sem ressarcimento de custas e/ou despesas processuais, porquanto os autores da ação são beneficiários da gratuidade e nada desembolsaram a tal título."
+      },
+      {
+        "pedido": "Dano material",
+        "tipoDaDecisao": "Improcedente",
+        "textoDaDecisao": "Fica extinto, sem resolução de mérito, o pedido de condenação dos demandados ao pagamento de aluguel social em favor dos autores da ação, com fundamento no artigo 485, inciso VI, do Código de Processo Civil."
+      }
+    ]
+  },
+  {
+    "id": "1003793-28.2024.8.26.0344",
+    "dispositivo": "Isto posto, na forma do que dispõe o artigo 487, inciso I, do Código deProcesso Civil, JULGO PROCEDENTE O PEDIDO, para o fim de condenar orequerido WALMIR TELLES, qualificado nos autos, ao pagamento, em favor daEMDURB, do valor correspondente a R$ 557,59 (quinhentos e cinquenta e sete reais ecinquenta e nove centavos), com atualização monetária pela Tabela Prática do E. TJSP apartir do ajuizamento da ação e incidência de juros moratórios calculados pela taxa SELIC(REsp 1795982/SP), a contar da citação.Em razão da sucumbência, arcará o requerido com as custas e despesasprocessuais incorridas, além do pagamento de honorários advocatícios, fixados em 10%sobre o valor da condenação (artigo 85, §3º, inciso I, do CPC), com atualização monetáriapela Tabela Prática do E. TJSP a partir da presente data.P.R.I.C.",
+    "decisoes": [
+      {
+        "pedido": "Dano material",
+        "tipoDaDecisao": "Procedente",
+        "textoDaDecisao": "JULGO PROCEDENTE O PEDIDO, para o fim de condenar o requerido WALMIR TELLES ao pagamento, em favor da EMDURB, do valor correspondente a R$ 557,59 (quinhentos e cinquenta e sete reais e cinquenta e nove centavos), com atualização monetária pela Tabela Prática do E. TJSP a partir do ajuizamento da ação e incidência de juros moratórios calculados pela taxa SELIC, a contar da citação.",
+        "valorDeferido": 557.59
+      }
+    ]
+  },
+  {
+    "id": "1008016-91.2024.8.26.0451",
+    "dispositivo": "Ante o exposto, JULGO PARCIALMENTE PROCEDENTE apresente ação que GABRIELA LAIS ROZATI move contra SWISS INTERNATIONAL AIR LINES AG., para condenar a ré a restituir a autora o valortotal de R$ 2.702,80 (dois mil setecentos e dois reais e oitenta centavos)devidamente corrigido monetariamente desde o desembolso e acrescido de jurosde mora de 1% ao mês, desde a citação (Tabela Prática TJSP).Declaro extinta a fase de conhecimento, com resolução domérito, na forma do art. 487, I, do Código de Processo Civil.Custas e honorários indevidos nos termos do art. 55 da Leinº 9.099/95.P.R.I.C.Piracicaba, 12 de agosto de 2024.",
+    "decisoes": [
+      {
+        "pedido": "Dano material",
+        "tipoDaDecisao": "Parcialmente procedente",
+        "textoDaDecisao": "JULGO PARCIALMENTE PROCEDENTE apresente ação que GABRIELA LAIS ROZATI move contra SWISS INTERNATIONAL AIR LINES AG., para condenar a ré a restituir a autora o valor total de R$ 2.702,80 (dois mil setecentos e dois reais e oitenta centavos) devidamente corrigido monetariamente desde o desembolso e acrescido de juros de mora de 1% ao mês, desde a citação.",
+        "valorDeferido": 2702.8
+      }
+    ]
+  }
+]

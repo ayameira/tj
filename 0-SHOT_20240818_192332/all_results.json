@@ -1,0 +1,171 @@
+[
+    {
+        "id": "0008426-88.2023.8.26.0068",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 2400,
+                "textoDaDecisao": "Determinar ao réu o estorno da compra no valor de R$ 2.400,00, realizada aos 28 de setembro de 2023, reconduzindo a relação à situação anterior à mencionada utilização.",
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Danos morais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 5000,
+                "textoDaDecisao": "Condeno o réu ao pagamento da quantia de R$ 5.000,00, referente ao ressarcimento dos danos morais suportados pelo autor, com correção monetária a partir da presente data e acréscimo de juros moratórios desde a citação.",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1002234-63.2022.8.26.0002",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 77410.78,
+                "textoDaDecisao": "JULGO PROCEDENTE o pedido, extinguindo o feito com fundamento no artigo 487, inciso I, do Código de Processo Civil, para o fim de condenar a ré ao pagamento de R$ 77.410,78, acrescido de correção monetária pela Tabela Prática do TJSP e juros de mora legal a contar de janeiro de 2022, conforme cálculo de fls. 182.",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1021317-42.2023.8.26.0451",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Parcialmente procedente",
+                "valorDeferido": 3093.3,
+                "textoDaDecisao": "Condenar a requerida a restituir ao autor a quantia de R$ 3.093,30, devidamente atualizada monetariamente desde o desembolso e acrescida de juros de mora de 1% ao mês, a contar da citação.",
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Declaratória",
+                "tipoDaDecisao": "Parcialmente procedente",
+                "valorDeferido": 0,
+                "textoDaDecisao": "Declarar a rescisão do contrato de prestação de serviços firmado entre as partes, consubstanciado na reserva registrada sob o nº RES082702-5705, referente às diárias no Hotel Laghetto Stilo Barra Rio, por culpa exclusiva da requerida, sem qualquer ônus ao consumidor.",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1003547-98.2023.8.26.0495",
+        "decisoes": [
+            {
+                "pedido": "Danos morais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 10000,
+                "textoDaDecisao": "JULGO PROCEDENTE o pedido inicial para, confirmando a antecipação da tutela, declarar inexistente a relação jurídica e a dívida que deu origem à inscrição indevida, condenando a instituição financeira demandada ao pagamento da importância de R$ 10.000,00 (dez mil reais) a título de indenização por danos morais.",
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Declaratória",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "textoDaDecisao": "JULGO PROCEDENTE o pedido inicial para, confirmando a antecipação da tutela, declarar inexistente a relação jurídica e a dívida que deu origem à inscrição indevida.",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1000720-80.2024.8.26.0010",
+        "decisoes": [
+            {
+                "pedido": "Declaratória",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "textoDaDecisao": "Julgo procedente a ação, para consolidar a propriedade e a posse exclusiva do bem no patrimônio do(a) autor(a), tornando definitiva a liminar.",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1028559-20.2018.8.26.0001",
+        "decisoes": [
+            {
+                "pedido": "Obrigação de fazer",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "textoDaDecisao": "JULGO PROCEDENTE o pedido formulado por DIONÍSIO SANTIAGO e APARECIDA DOS SANTOSSANTIAGO em face de BELMIRO AUGUSTO RODRUGUES, GILDA CRIVELIRODRIGUES, ANTONIO FERREIRA DE VASCONCELOS e ADALENA GENENTEVASCONCELOS, para adjudicar o imóvel sito à rua Janauira, nº 17, antiga rua Aracy, no Jardim Pery, no 8º Subdistrito – Santana, contribuinte municipal nº 108.210.0131-1, matriculado sob nº 155.234 aos requerentes.",
+                "obrigacaoDeFazer": "Adjudicar o imóvel sito à rua Janauira, nº 17, antiga rua Aracy, no Jardim Pery."
+            },
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Improcedente",
+                "valorDeferido": 0,
+                "textoDaDecisao": "Condeno os Réus ao pagamento de custas, despesas processuais e honorários advocatícios que arbitro em 10% sobre o valor da causa.",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "0000020-15.2024.8.26.0595",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 3717.5,
+                "textoDaDecisao": "JULGO PROCEDENTE o pedido inicial formulado por S.T.A. e V.A.S. em face de L.F.D.B. para condenar o réu ao pagamento dos danos causados no valor de R$ 3.717,50, corrigidos monetariamente desde a data do orçamento e acrescidos de juros de mora de 1% ao mês desde o evento danoso (20/08/23).",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1002770-47.2024.8.26.0344",
+        "decisoes": [
+            {
+                "pedido": "Danos morais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 60000,
+                "textoDaDecisao": "Condenar o MUNICÍPIO DE MARÍLIA e a CDHU, solidariamente, ao pagamento de indenização por danos morais no valor de R$ 30.000,00 para cada um dos autores da ação (totalizando R$ 60.000,00), com aplicação da taxa SELIC a partir da presente data até o efetivo pagamento.",
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Obrigação de fazer",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "textoDaDecisao": "Ratificar a liminar e determinar, em caráter definitivo, a suspensão da exigibilidade das parcelas do financiamento, devendo a CDHU se abster de promover atos de cobrança, sob pena de multa diária de R$ 1.000,00 até o limite de R$ 50.000,00.",
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Gratuidade da justiça",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "textoDaDecisao": "Os autores da ação são beneficiários da gratuidade e nada desembolsaram a tal título.",
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Improcedente",
+                "valorDeferido": 0,
+                "textoDaDecisao": "Extinção sem resolução de mérito do pedido de condenação ao pagamento de aluguel social.",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1003793-28.2024.8.26.0344",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 557.59,
+                "textoDaDecisao": "JULGO PROCEDENTE O PEDIDO, para o fim de condenar o requerido WALMIR TELLES ao pagamento, em favor da EMDURB, do valor correspondente a R$ 557,59, com atualização monetária pela Tabela Prática do E. TJSP a partir do ajuizamento da ação e incidência de juros moratórios calculados pela taxa SELIC.",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1008016-91.2024.8.26.0451",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Parcialmente procedente",
+                "valorDeferido": 2702.8,
+                "textoDaDecisao": "JULGO PARCIALMENTE PROCEDENTE a ação que GABRIELA LAIS ROZATI move contra SWISS INTERNATIONAL AIR LINES AG., para condenar a ré a restituir a autora o valor total de R$ 2.702,80 (dois mil setecentos e dois reais e oitenta centavos) devidamente corrigido monetariamente desde o desembolso e acrescido de juros de mora de 1% ao mês, desde a citação (Tabela Prática TJSP).",
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    }
+]

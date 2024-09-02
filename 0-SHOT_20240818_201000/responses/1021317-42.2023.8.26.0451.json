@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xjKLw6ioIxWG7z1XEDmKm5DN9fYC",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Dano material\",\"tipoDaDecisao\":\"Parcialmente procedente\",\"valorDeferido\":3093.3,\"obrigacaoDeFazer\":\"\"},{\"pedido\":\"Declaratória\",\"tipoDaDecisao\":\"Parcialmente procedente\",\"valorDeferido\":0,\"obrigacaoDeFazer\":\"Declarar a rescisão do contrato de prestação de serviços.\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724022617,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 89,
+        "prompt_tokens": 325,
+        "total_tokens": 414
+    }
+}

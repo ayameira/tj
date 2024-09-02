@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xibJsTDNV6r89cMDRqAT6P89FGdj",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Declaratória\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":0,\"textoDaDecisao\":\"Julgo procedente a ação, para consolidar a propriedade e a posse exclusiva do bem no patrimônio do(a) autor(a), tornando definitiva a liminar.\",\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724019825,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 75,
+        "prompt_tokens": 147,
+        "total_tokens": 222
+    }
+}

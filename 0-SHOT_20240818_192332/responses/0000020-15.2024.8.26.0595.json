@@ -1,0 +1,19 @@
+{
+    "id": "chatcmpl-9xibOLCWw8AbUKmUCY8oNLCkl7NgM",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message_content": "{\"decisoes\":[{\"pedido\":\"Danos materiais\",\"tipoDaDecisao\":\"Procedente\",\"valorDeferido\":3717.5,\"textoDaDecisao\":\"JULGO PROCEDENTE o pedido inicial formulado por S.T.A. e V.A.S. em face de L.F.D.B. para condenar o réu ao pagamento dos danos causados no valor de R$ 3.717,50, corrigidos monetariamente desde a data do orçamento e acrescidos de juros de mora de 1% ao mês desde o evento danoso (20/08/23).\",\"obrigacaoDeFazer\":\"\"}]}",
+            "message_role": "assistant"
+        }
+    ],
+    "created": 1724019830,
+    "model": "gpt-4o-mini-2024-07-18",
+    "object": "chat.completion",
+    "usage": {
+        "completion_tokens": 134,
+        "prompt_tokens": 565,
+        "total_tokens": 699
+    }
+}

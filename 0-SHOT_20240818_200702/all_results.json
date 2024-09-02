@@ -1,0 +1,154 @@
+[
+    {
+        "id": "0008426-88.2023.8.26.0068",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 2400,
+                "obrigacaoDeFazer": "Estorno da compra realizada aos 28 de setembro de 2023."
+            },
+            {
+                "pedido": "Danos morais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 5000,
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1002234-63.2022.8.26.0002",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 77410.78,
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1021317-42.2023.8.26.0451",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Parcialmente procedente",
+                "valorDeferido": 3093.3,
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Declaratória",
+                "tipoDaDecisao": "Parcialmente procedente",
+                "valorDeferido": 0,
+                "obrigacaoDeFazer": "Declarar a rescisão do contrato de prestação de serviços."
+            }
+        ]
+    },
+    {
+        "id": "1003547-98.2023.8.26.0495",
+        "decisoes": [
+            {
+                "pedido": "Danos morais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 10000,
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Declaratória",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "obrigacaoDeFazer": "Declarar inexistente a relação jurídica e a dívida que deu origem à inscrição indevida."
+            }
+        ]
+    },
+    {
+        "id": "1000720-80.2024.8.26.0010",
+        "decisoes": [
+            {
+                "pedido": "Declaratória",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1028559-20.2018.8.26.0001",
+        "decisoes": [
+            {
+                "pedido": "Obrigação de fazer",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "obrigacaoDeFazer": "Adjudicação do imóvel sito à rua Janauira, nº 17, antiga rua Aracy, no Jardim Pery."
+            },
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "obrigacaoDeFazer": "Condenação dos Réus ao pagamento de custas, despesas processuais e honorários advocatícios."
+            }
+        ]
+    },
+    {
+        "id": "0000020-15.2024.8.26.0595",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 3717.5,
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1002770-47.2024.8.26.0344",
+        "decisoes": [
+            {
+                "pedido": "Danos morais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 60000,
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Obrigação de fazer",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "obrigacaoDeFazer": "Suspensão da exigibilidade das parcelas do financiamento e abstenção de atos de cobrança."
+            },
+            {
+                "pedido": "Gratuidade da justiça",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 0,
+                "obrigacaoDeFazer": ""
+            },
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Improcedente",
+                "valorDeferido": 0,
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1003793-28.2024.8.26.0344",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Procedente",
+                "valorDeferido": 557.59,
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    },
+    {
+        "id": "1008016-91.2024.8.26.0451",
+        "decisoes": [
+            {
+                "pedido": "Danos materiais",
+                "tipoDaDecisao": "Parcialmente procedente",
+                "valorDeferido": 2702.8,
+                "obrigacaoDeFazer": ""
+            }
+        ]
+    }
+]

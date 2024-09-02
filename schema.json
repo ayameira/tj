@@ -1,0 +1,59 @@
+{
+  "name": "decisao_judicial",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "decisoes": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "pedido": {
+              "title": "Pedido",
+              "type": "string",
+              "enum": [
+                "Danos morais",
+                "Danos materiais",
+                "Obrigação de fazer",
+                "Declaratória",
+                "Gratuidade da justiça"
+              ]
+            },
+            "tipoDaDecisao": {
+              "type": "string",
+              "enum": [
+                "Procedente",
+                "Improcedente",
+                "Parcialmente procedente",
+                "Não mencionado"
+              ]
+            },
+            "obrigacaoDeFazer": {
+              "type": "string",
+              "title": "Descrição da obrigação de fazer, se for o caso"
+            },
+            "textoDaDecisao": {
+              "type": "string"
+            },
+            "valorDeferido": {
+              "type": "number"
+            }
+          },
+          "required": [
+            "pedido",
+            "tipoDaDecisao",
+            "textoDaDecisao",
+            "valorDeferido",
+            "obrigacaoDeFazer"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "decisoes"
+    ],
+    "additionalProperties": false
+  }
+}
